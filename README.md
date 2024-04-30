@@ -64,15 +64,6 @@ Once the dependencies are installed, run:
 make install
 ```
 
-Or check out the latest [release](https://github.com/evmos/evmos/releases).
-
-## Community
-
-The following chat channels and forums are great spots to ask questions about Evmos:
-
-- [Evmos Twitter](https://twitter.com/EvmosOrg)
-- [Evmos Discord](https://discord.gg/evmos)
-- [Evmos Forum](https://commonwealth.im/evmos)
 
 ## Contributing
 
@@ -81,30 +72,6 @@ Check out some
 [`good first issues`](https://github.com/evmos/evmos/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
 For additional instructions, standards and style guides, please refer to the [Contributing](./CONTRIBUTING.md) document.
-
-## Careers
-
-See our open positions on [Greenhouse](https://boards.eu.greenhouse.io/evmos).
-
-## Licensing
-
-Starting from April 21st, 2023, the Evmos repository will update its License
-from GNU Lesser General Public License v3.0 (LGPLv3) to [Evmos Non-Commercial
-License 1.0 (ENCL-1.0)](./LICENSE). This license applies to all software released from Evmos
-version 13 or later, except for specific files, as follows, which will continue
-to be licensed under LGPLv3:
-
-- `x/claims/genesis.go`
-- `x/erc20/keeper/proposals.go`
-- `x/erc20/types/utils.go`
-
-LGPLv3 will continue to apply to older versions ([<v13.0.0](https://github.com/evmos/evmos/releases/tag/v12.1.5))
-of the Evmos repository. For more information see [LICENSE](./LICENSE).
-
-> [!WARNING]
->
-> **NOTE: If you are interested in using this software**
-> email us at [os@evmos.org](mailto:os@evmos.org).
 
 ### SPDX Identifier
 
@@ -123,11 +90,6 @@ Exempted files contain the following SPDX ID:
 // SPDX-License-Identifier:LGPL-3.0-only
 ```
 
-### License FAQ
 
-Find below an overview of the Permissions and Limitations of the Evmos Non-Commercial License 1.0.
-For more information, check out the full ENCL-1.0 FAQ [here](./LICENSE_FAQ.md).
 
-| Permissions                                                                                                                                                                  | Prohibited                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| - Private Use, including distribution and modification<br />- Commercial use on designated blockchains<br />- Commercial use with Evmos permit (to be separately negotiated) | - Commercial use, other than on designated blockchains, without Evmos permit |
+
