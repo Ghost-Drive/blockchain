@@ -38,14 +38,14 @@ parent:
 
 ## About
 
-Evmos is a scalable, high-throughput Proof-of-Stake EVM blockchain
+Ghostdrive is a scalable, high-throughput Proof-of-Stake EVM blockchain
 that is fully compatible and interoperable with Ethereum.
 It's built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 which runs on top of the [CometBFT](https://github.com/cometbft/cometbft) consensus engine.
 
 ## Quick Start
 
-To learn how Evmos works from a high-level perspective,
+To learn how Ghostdrive works from a high-level perspective,
 go to the [Protocol Overview](https://docs.evmos.org/protocol) section of the documentation.
 You can also check the instructions to [Run a Node](https://docs.evmos.org/protocol/evmos-cli#run-an-evmos-node).
 
